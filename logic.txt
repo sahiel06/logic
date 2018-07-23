@@ -1,0 +1,22 @@
+1. Indeks massa tubuh -> usia, tinggi(cm), berat(kg) -> MENGHITUNG - ULANG
+	rumus = berat badan : tinggi badan(m) x Tinggi badan(m).
+	hasil = nilai IMT 	artinya
+		18,4	  =	berat badan kurang
+		18,5-24,9 =	berat badan ideal
+		25-29,9	  =	berat badan lebih
+		30-39,9	  =	gemuk
+		40 keatas =	sangat gemuk
+
+2. Kalori 	      -> jenis kelamin, usia, tinggi(cm), berat(kg), aktivitas(rendah,sedang,berat) ->MENGHITUNG - ULANG
+	rumus = aktivitas rendah (1,2) aktivitas sedang (1,3) aktivitas berat (1,4)
+		pria -> 66,5 + 13,8 x berat badan + 5 x tinggi : 6,8 x usia x aktivitas.
+		wanita -> 655,1 + 9,6 x berat + 1,9 x tinggi : 4,7 x usia x aktivitas.
+
+3. asupan air 	      -> berat -> MENGHITUNG - ULANG
+	rumus  = berat badan x 30ml .
+	contoh : berat 50 x 30ml = 1500ml atau 1,5 liter.
+
+4. berat badan ideal  -> jenis kelamin, tinggi -> MENGHITUNG - ULANG.
+	rumus  = Pria -> [tinggi badan (cm) – 100] – [(tinggi badan (cm) – 100) x 10%]
+		 Wanita -> [tinggi badan (cm) – 100] – [(tinggi badan (cm) – 100) x 15%]
+Contoh : wanita tinggi 158 cm, maka berat badan Anda yang ideal adalah sebesar 58-8,7 = 49,3 cm.
